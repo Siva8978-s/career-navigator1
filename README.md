@@ -3,7 +3,7 @@
 The **Future Career Navigator** is a web-based application designed to help students explore various career opportunities after completing their education. Whether you're in high school, college, or recently graduated, this tool provides guidance by suggesting potential paths based on your interests and field of study.
 
 ## 🚀 Live Demo
-[Click here to view the live site](https://your-live-site-link.com) <!-- Replace with actual link -->
+[Click here to view the live site](https://career-navigator1.vercel.app/) <!-- Replace with actual link -->
 
 ## 📌 Features
 
