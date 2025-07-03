@@ -15,7 +15,7 @@ The **Future Career Navigator** is a web-based application designed to help stud
 
 ## 📷 Screenshot
 
-![Project Screenshot](https://github.com/Siva8978-s/my-images/blob/main/1711076766999.jpg) <!-- Optional: Replace with your project screenshot -->
+![Project Screenshot](https://github.com/Siva8978-s/result page.png) <!-- Optional: Replace with your project screenshot -->
 
 ## 🛠️ Technologies Used
 
