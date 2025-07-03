@@ -44,9 +44,16 @@ const About = () => {
           and{' '}
           <a className="text-blue-500" href="/privacy-policy">
             Privacy Policy
-          </a>
+          </a>      
           .
         </p>
+                <p className="text-gray-700">
+          Feel free to reach out to us at{' '}
+          <a className="text-blue-500" href="mailto:Siva8978-s@users.noreply.github.com">
+            Siva8978-s@users.noreply.github.com
+          </a>
+          .
+        </p>       
       </section>
 
       <section className="mb-6">
