@@ -45,5 +45,4 @@ Make mobile responsiveness even more robust
 Siva Korukonda
 B.Tech (CSE), 2026 Batch
 Member of GDSC | UBA Club Volunteer
-[LinkedIn](https://www.linkedin.com/in/Siva-Korukonda) | [GitHub](https://github.com/Siva8978-s)
-
+LinkedIn | GitHub
